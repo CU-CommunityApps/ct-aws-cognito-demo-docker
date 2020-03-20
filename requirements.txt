@@ -1,0 +1,6 @@
+Flask
+pprint
+logzero
+pyjwt
+requests
+
